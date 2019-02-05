@@ -1,4 +1,3 @@
-print("Enter the number")
 n=int(input())
 if n>0:
     if n%2==0:
@@ -6,4 +5,4 @@ if n>0:
     else:
         print("Odd")
 else:
-    print("invalid")
+    print("Invalid")
